@@ -42,3 +42,8 @@
     border: none;
     color: var(--gray-300);
 }
+
+.textCompleted {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
