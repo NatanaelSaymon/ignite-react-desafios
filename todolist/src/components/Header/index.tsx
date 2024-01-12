@@ -1,7 +1,8 @@
-import todoLogo from "../../assets/todoLogo.svg";
-import styles from "./header.module.css";
 import { AiOutlinePlusCircle } from "react-icons/ai";
 import { FormEvent, useState, ChangeEvent } from "react";
+
+import todoLogo from "../../assets/todoLogo.svg";
+import styles from "./header.module.css";
 
 interface Props {
   onAddTask: (taskTitle: string) => void;
@@ -28,7 +29,7 @@ export function Header({ onAddTask }: Props) {
       <form className={styles.newTaskForm} onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="adicione uma nova tarefa"
+          placeholder="Adicione uma nova tarefa"
           value={title}
           onChange={onChangeTitle}
         />
