@@ -1,8 +1,4 @@
-# Desafios Ignite React 2022 <img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-
-Repositório destinado a armazenar todas as resoluções dos desafios.
-
-<br />
+# Desafios Ignite React<img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 
 &nbsp;
 
@@ -10,9 +6,9 @@ Repositório destinado a armazenar todas as resoluções dos desafios.
 
 <img src="https://user-images.githubusercontent.com/71772559/178170317-063200c0-4605-491a-80df-421ae6eef864.png" align="center" />
 
-Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma simples lista de tarefas com as opções de criar e apagar um item da lista.
+Durante este desafio, utilizamos os conceitos básicos do React, desenvolvendo do zero uma lista de tarefas(todo-list) com as opções de criar e apagar um item da lista e salvar os dados no local storage.
 
-### 🛠️ Nesse projeto foi utilizado
+### 🛠️ Stacks utilizadas no projeto:
 
 - Vite
 - CSS Modules
